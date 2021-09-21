@@ -31,3 +31,8 @@ h1{
     display: flex;
     justify-content: right;
 }
+
+p{
+display: flex;
+justify-content: center;  
+}
